@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679707335 source:c:\users\user\onedrive\documentos\ciencia da computação\3 semestre\estrutura de dados\ex_lista_03\ex_1_struct nome cpf e endereço\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstdlib>
+

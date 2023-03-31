@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680224004 source:c:\users\user\onedrive\documentos\ciencia da computação\3 semestre\estrutura de dados\ex_lista_03\ex_2_zoologico\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<string>
+
