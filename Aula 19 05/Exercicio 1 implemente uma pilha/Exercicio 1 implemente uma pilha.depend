@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684543220 source:c:\users\user\onedrive\documentos\ciencia da computação\3 semestre\estrutura de dados\2 bimestre\aula 19 05\exercicio 1 implemente uma pilha\main.cpp
+	<iostream>
+	<stack>
+
