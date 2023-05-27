@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685145589 source:c:\users\user\onedrive\documentos\ciencia da computação\3 semestre\estrutura de dados\2 bimestre\aula 26 05\exercicio 1 sistema de atendimento\main.cpp
+	<iostream>
+	<queue>
+	<string>
+
